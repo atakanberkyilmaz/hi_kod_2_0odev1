@@ -1,7 +1,8 @@
 ## HiKod2.0 İlk Hafta Ödevi
 # Kaynaklar
-[https://flutlab.io/] (Flutter Lab)
-[https://dartpad.dev/] (DartPad)
+[Flutter Lab](https://flutlab.io/)
+[DartPad](https://dartpad.dev/)
+
 
 
 A new Flutter project.
