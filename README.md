@@ -1,4 +1,6 @@
-# hi_kod_2_0_odev1
+# HiKod2.0 İlk Hafta Ödevi
+# Kaynaklar
+
 
 A new Flutter project.
 
