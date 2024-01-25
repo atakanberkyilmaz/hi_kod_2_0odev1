@@ -63,40 +63,7 @@ void main() {
 
   print("Merhaba ben $name2, $age2 yaşındayım. Boyum $height ve en sevdiğim renk $favoriteColor'dır");
 
-  /*Example, Derste kullanılan kodlar
-  import 'dart:math';
-
-  void main() {
-    print("Hi Kod");
-    print("Bugün Atölyenin ikinci günü!");
-
-    //integer
-    int sayi = 1;
-    String isim = "sabuha bugün ders veriyor";
-
-    double a = 5/2;
-    a = 3;
-
-
-    print(sayi);
-    print(isim);
-    print(a);
-
-    //loop
-    for(int x = 2; x <=30; x+=2){
-      // print("Benim sayım: $x");
-    }
-
-    String kelime = "100";
-    int number1=  int.parse(kelime);
-    print(number1);
-    print("$number1");
-
-
-
-  }
-
-   */
+  
   }
 
 
